@@ -26,7 +26,7 @@
 <ul>
   <li>🔭 I am an aspiring Software Engineer</li>
   <li>❤️I am passionate about solving problems that make positive impact </li>
-  <li>🌱 I’m currently learning Frontend Web Development🚀🚀</li>
+  <li>🌱 I’m currently learning Web Development🚀🚀</li>
   <li>👯 I love sharing and discussing ideas. Collaboration is at the core of my thinking </li>
   <li>📫Portfolio website : coming soon ❤</li>
   <li>⚡ Fun fact: When I'm not Coding, I'm probably reading Dostoyevsky, Kafka or Camus. Or perhaps listening to Chopin or Bethoveen 😎</li>
